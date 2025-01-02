@@ -2,6 +2,8 @@
 
 This project explores the socio-economic and geographical factors influencing COVID-19 vaccine hesitancy in the United States. Using advanced machine learning models, the analysis aims to predict vaccine hesitancy rates at the county level and provide actionable insights to inform public health strategies.
 
+This project was conducted in a team of 4 for the DS3000 Data Science Foundations course in April 2024. 
+
 ## Key Features
 
 - **Data Integration**: Combined county-level COVID-19 vaccine administration data, Social Vulnerability Index (SVI), CVAC levels of concern, and vaccine hesitancy estimates for comprehensive analysis.
